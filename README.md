@@ -9,6 +9,25 @@ EagleVision is a real-time course registration system built with Django and SQLi
 - **Email Notifications**: Sends automated email alerts for registration confirmations and waitlist updates.
 - **Thread-Safe Auto-Enrollment**: Ensures conflict-free spot allocation through thread-safe operations.
 
+
+
+## Registration Page
+
+![Registration Page](https://github.com/CSCI3356-Fall2023/EagleVision---Course-Registration-Waitlist-System/blob/main/assets/IMG_2409.JPG)
+
+
+## Course List
+![Course List](https://github.com/CSCI3356-Fall2023/EagleVision---Course-Registration-Waitlist-System/blob/main/assets/IMG_2413.JPG)
+
+## Waitlist 
+![Wait List](https://github.com/CSCI3356-Fall2023/EagleVision---Course-Registration-Waitlist-System/blob/main/assets/IMG_2412.JPG)
+
+
+
+
+
+
+
 ## Prerequisites
 
 - **Python 3.x**
