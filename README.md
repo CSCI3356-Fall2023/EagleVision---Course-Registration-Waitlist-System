@@ -82,10 +82,15 @@ Locally, The application will be accessible at http://127.0.0.1:8000/.
 
 ### Usage
 Access the Website: Open your web browser and navigate to http://127.0.0.1:8000/.
+
 Register/Login: Create a new account or log in with existing BC credentials.
+
 Browse Courses: View the list of available courses.
+
 Register for Courses: Enroll in courses or join the waitlist if the course is full.
+
 Receive Notifications: Check your email for registration confirmations and updates.
+
 Admin Report: As an admin, you can check out the current analytics and registration for a specific course and can also go back to previous snapshot.
 
 
